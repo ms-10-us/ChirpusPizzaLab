@@ -1,0 +1,16 @@
+.soldOutStrikeThrough{
+    text-decoration: line-through;
+}
+
+.centerText {
+    text-align: center;
+}
+
+.centerTable {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.boldText {
+    font-weight: bold;
+}
